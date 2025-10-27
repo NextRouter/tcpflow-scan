@@ -5,4 +5,4 @@ done
 
 wait
 
-echo "All parallel operations completed!"
+echo "All parallel operations completed."
