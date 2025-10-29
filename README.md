@@ -2,8 +2,9 @@
 
 # clone repository
 ```bash
-git clone https://github.com/NextRouter/adaptiveRouting-rs
-git clone https://github.com/NextRouter/tcp-traffic-scan
+git clone https://github.com/NextRouter/adaptiveRouting-rs.git
+git clone https://github.com/NextRouter/tcp-traffic-scan.git
+git clone https://github.com/NextRouter/diff-speedtest.git
 ```
 
 
